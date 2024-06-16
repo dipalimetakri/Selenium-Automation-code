@@ -22,7 +22,7 @@ public class TestngPriority {
 	  @BeforeClass
 	  public void beforeclss()
 	  {
-		  System.out.println("Launching the web browsern before class executio");
+		  System.out.println("Launching the web browsern before class execution");
 	  }
 	
 //	  @AfterMethod public void after() 

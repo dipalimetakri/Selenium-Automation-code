@@ -13,9 +13,4 @@ public class ClassThree {
 	public void classthree() {
 		System.out.println("Executing class three method under ClassThree");
 	}
-	@Test(groups={"sanity"},priority=8)
-		public void classten() {
-		System.out.println("Executing class ten method under ClassThree");
-			//Disha has commited changes
-	}
 }
