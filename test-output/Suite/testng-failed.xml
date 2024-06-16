@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="methods" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="methods" name="Test(failed)">
+    <classes>
+      <class name="TestNGFramewok.TestNG">
+        <methods>
+          <include name="skipTC"/>
+          <include name="afterpmodule"/>
+          <include name="manuallyexception"/>
+          <include name="assertMethods"/>
+          <include name="fail"/>
+        </methods>
+      </class> <!-- TestNGFramewok.TestNG -->
+      <class name="TestNGFramewok.ForinvokeListener">
+        <methods>
+          <include name="Testten"/>
+        </methods>
+      </class> <!-- TestNGFramewok.ForinvokeListener -->
+      <class name="POMandPageFactoryModelantAutoIT.PagefactoryTest">
+        <methods>
+          <include name="closure"/>
+          <include name="factory"/>
+        </methods>
+      </class> <!-- POMandPageFactoryModelantAutoIT.PagefactoryTest -->
+      <class name="LiveProjectSelenium.RegistrationPageUsingTestNG">
+        <methods>
+          <include name="beforesuit"/>
+          <include name="Registrationflow"/>
+        </methods>
+      </class> <!-- LiveProjectSelenium.RegistrationPageUsingTestNG -->
+      <class name="POMandPageFactoryModelantAutoIT.LoginTest">
+        <methods>
+          <include name="login"/>
+          <include name="closure"/>
+        </methods>
+      </class> <!-- POMandPageFactoryModelantAutoIT.LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,18 @@
+2024-06-09 01:30:02,681 DEBUG L.LoginTest [main] Browser got Launched
+2024-06-09 01:30:03,764 DEBUG L.LoginTest [main] Navigated to application URL	
+2024-06-09 01:32:23,877 DEBUG L.LoginTest [main] Browser got Launched
+2024-06-09 01:32:25,129 DEBUG L.LoginTest [main] Navigated to application URL	
+2024-06-09 01:32:25,347 DEBUG L.LoginTest [main] Click on my accountpage dropdown
+2024-06-09 01:32:25,738 DEBUG L.LoginTest [main] Click on loginbutton
+2024-06-09 01:32:27,951 DEBUG L.LoginTest [main] Entered email into email field
+2024-06-09 01:32:28,102 DEBUG L.LoginTest [main] Entered password into password field
+2024-06-09 01:32:28,872 INFO L.LoginTest [main] Test got Successful
+2024-06-09 01:32:31,158 DEBUG L.LoginTest [main] Browser got closed
+2024-06-09 01:32:32,775 DEBUG L.LoginTest [main] Browser got Launched
+2024-06-09 01:32:34,381 DEBUG L.LoginTest [main] Navigated to application URL	
+2024-06-09 01:32:34,494 DEBUG L.LoginTest [main] Click on my accountpage dropdown
+2024-06-09 01:32:34,863 DEBUG L.LoginTest [main] Click on loginbutton
+2024-06-09 01:32:37,114 DEBUG L.LoginTest [main] Entered email into email field
+2024-06-09 01:32:37,239 DEBUG L.LoginTest [main] Entered password into password field
+2024-06-09 01:32:47,806 ERROR L.LoginTest [main] test got falure
+2024-06-09 01:32:48,068 DEBUG L.LoginTest [main] Browser got closed

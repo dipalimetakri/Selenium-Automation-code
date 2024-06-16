@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Payment]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Opackg(failed)">
+    <classes>
+      <class name="LiveProjectSelenium.RegistrationPageUsingTestNG">
+        <methods>
+          <include name="Registrationflow"/>
+          <include name="beforesuit"/>
+        </methods>
+      </class> <!-- LiveProjectSelenium.RegistrationPageUsingTestNG -->
+    </classes>
+  </test> <!-- Opackg(failed) -->
+</suite> <!-- Failed suite [Payment] -->

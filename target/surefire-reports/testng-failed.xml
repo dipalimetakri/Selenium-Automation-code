@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ICIC Term Life Insurance]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Registration(failed)" verbose="0">
+    <classes>
+      <class name="LiveProjectSelenium.ICICTermLifeInsuranceFlow">
+        <methods>
+          <include name="registration"/>
+        </methods>
+      </class> <!-- LiveProjectSelenium.ICICTermLifeInsuranceFlow -->
+    </classes>
+  </test> <!-- Registration(failed) -->
+</suite> <!-- Failed suite [ICIC Term Life Insurance] -->

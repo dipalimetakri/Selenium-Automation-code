@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Maven_Framework.MavenTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 80.51 s -- in Maven_Framework.MavenTest
