@@ -16,5 +16,7 @@ public class Classone {
 	public void classoneThree() {
 		System.out.println("Executing class Three method under ClassOne");			
 	}
-
+	public void classonefour() {
+		System.out.println("Executing class four method under ClassOne");			
+	}
 }
